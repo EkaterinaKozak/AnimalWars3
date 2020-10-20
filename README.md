@@ -1,2 +1,2 @@
-# AnimalWars3
+# AnimalWars3 with maven
  

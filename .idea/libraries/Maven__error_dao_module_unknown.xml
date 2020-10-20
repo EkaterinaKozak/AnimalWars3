@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: error:dao-module:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/error/dao-module/unknown/dao-module-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/error/dao-module/unknown/dao-module-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/error/dao-module/unknown/dao-module-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

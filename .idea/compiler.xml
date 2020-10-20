@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-module" />
+        <module name="entities-module" />
+        <module name="util-module" />
+        <module name="api-module" />
+        <module name="main-module" />
+        <module name="dao-module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AnimalWars3" target="13" />
+      <module name="api-module" target="13" />
+      <module name="dao-module" target="13" />
+      <module name="entities-module" target="13" />
+      <module name="main-module" target="13" />
+      <module name="service-module" target="13" />
+      <module name="util-module" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: error:entities-module:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/error/entities-module/unknown/entities-module-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/error/entities-module/unknown/entities-module-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/error/entities-module/unknown/entities-module-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

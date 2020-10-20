@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalWars3.iml" filepath="$PROJECT_DIR$/AnimalWars3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-module/api-module.iml" filepath="$PROJECT_DIR$/api-module/api-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao-module/dao-module.iml" filepath="$PROJECT_DIR$/dao-module/dao-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entities-module/entities-module.iml" filepath="$PROJECT_DIR$/entities-module/entities-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-module/main-module.iml" filepath="$PROJECT_DIR$/main-module/main-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-module/service-module.iml" filepath="$PROJECT_DIR$/service-module/service-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-module/util-module.iml" filepath="$PROJECT_DIR$/util-module/util-module.iml" />
+    </modules>
+  </component>
+</project>

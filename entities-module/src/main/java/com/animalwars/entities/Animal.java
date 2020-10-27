@@ -27,6 +27,4 @@ public abstract class Animal implements Serializable {
 	public void setHit(int hit) {
 		this.hit = hit;
 	}
-	
-	
 }

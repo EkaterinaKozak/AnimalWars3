@@ -1,9 +1,10 @@
 package com.animalwars.services;
-import java.util.List;
 
 import com.animalwars.api.service.IWarService;
 import com.animalwars.entities.Animal;
 import com.animalwars.utils.ResultSaver;
+
+import java.util.List;
 
 public class WarService implements IWarService {
 	
